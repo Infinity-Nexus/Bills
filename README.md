@@ -1,3 +1,4 @@
+![Github Feature Graphic](https://github.com/Infinity-Nexus/Bills/assets/161601888/696dace6-4c41-43ad-b376-982ff6d9e44d)
 # Bills
 Bills is a finance management app providing powerful tools to simplify and optimize your financial management. Infused with state-of-the-art machine learning technology, this app not only allows you to track transactions but also intelligently predicts future payments and income based on your historical financial data.
 
